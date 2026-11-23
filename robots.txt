@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://daiannagh.github.io/learngeorgian/sitemap.xml

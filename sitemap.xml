@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://daiannagh.github.io/learngeorgian/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://daiannagh.github.io/learngeorgian/blog.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/about.html</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/online-lessons.html</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/batumi-groups.html</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/blog.html</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/blog-georgian-in-batumi.html</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/blog-georgian-grammar.html</loc></url>
+  <url><loc>https://daiannagh.github.io/learngeorgian/blog-practise-georgian.html</loc></url>
 </urlset>
